@@ -1,6 +1,6 @@
 # go_calculator
 A simple calculator programmed using GO
-Calculator GO 1.0
+Calculator GO 
 
 This is my first Go project, built while I started learning the fundamentals of the language.
 The program demonstrates the use of switch cases, user input handling, and basic arithmetic operations.
